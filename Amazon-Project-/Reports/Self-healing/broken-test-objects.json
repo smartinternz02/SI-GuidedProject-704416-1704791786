@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Amazon Sign In/input_password",
+      "brokenLocator": "//input[@id\u003d\u0027wemet@08\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027authportal-main-section\u0027]/div[2]/div/div[2]/div/form/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Amazon Sign In/input_password_idRelative.png"
+    }
+  ]
+}
